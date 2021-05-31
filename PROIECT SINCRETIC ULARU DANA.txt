@@ -9,6 +9,19 @@
 
 
 
+PROIECT ULARU DANA descompunerea unui nr in factori primi
+
+
+Numim numar prim orice numar natural mai mare decat 1,care are numai divizori improprii.Numerele prime sunt:2;3;5;7;11;13;17;19;23;29;31
+Obs.:Singurul nr.prim si par este 2.
+Pentru a afla daca un numar este prim sau nu,il descompunem in factori primi,adica il impartim la toate numerele prime cu care este divizibil.
+Daca este divizibil doar cu 1 si cu el insusi,atunci numarul este prim(deci nu se poate descompune in factori primi)
+
+NUmerele prime se folosesc si in criptografie si exista multe probleme faimoase(de exemplu conjectura lui goldbach care, daca un orice numar par
+ este suma de doua numere prime, inca nu a fost rezolvata), ipoteza riemann (rezolvata recent);
+
+
+
 
 #include<iostream>
 #include<conio.h>
